@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 //Metodo de intercambio
 void intercambiar(int *a, int *b) {
   int temporal = *a;

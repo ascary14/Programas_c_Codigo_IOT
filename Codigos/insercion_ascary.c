@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include<stdio.h>
+
 #define Taman 5
 void mostrarLista(int*);
 int main(int argc, char** argv){
