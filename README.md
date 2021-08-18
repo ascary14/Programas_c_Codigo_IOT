@@ -1,7 +1,11 @@
 # Programas_c_Codigo_IOT
 Este repositorio esta hecho para subir los programas realizados en c hechos anteriormente, para la evaluación y observación de ayuda del diplomado IOT.
 
-Los programas que subi son 4 en los cuales son los ultimos que realice para la explicacion de reportes 
+Los programas que subi son 4, en los cuales son los ultimos que realice para la explicacion de reportes:
+Busqueda por insercion
+Busqueda por burbuja
+Busqueda recursiva divide y venceras 
+Combinaciones de n numeros en k espacios
 
 las bibliotecas que se usaron fue:
 
